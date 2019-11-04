@@ -11,5 +11,5 @@ categories:
 tags:
   - computer
   - US Army 
-  - Vacuum tube
+  - Vacuum tube 
 ---
